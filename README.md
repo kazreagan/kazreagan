@@ -14,7 +14,4 @@
 - 📧 Email: ouledireagan@gmail.com
 - 🐦 Twitter: [@UReagan](https://twitter.com/UReagan)
 
-## 🌟 Quote
-- Every big project started out as an idea.
-
 > "Your imagination is the blueprint of your future. Let's build something extraordinary together!"
